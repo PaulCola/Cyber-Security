@@ -1,0 +1,53 @@
+2026-09-25 12:08:23 | HIGH | Test Detector | This is a test security alert
+2026-09-25 12:17:58 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25
+2026-09-25 15:25:01 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25
+2026-09-25 15:32:18 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 5 failed attempts within 60 seconds
+2026-09-28 14:00:06 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-28 15:05:11 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 5 failed attempts within 60 seconds
+2026-09-28 15:05:24 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 5 failed attempts within 60 seconds
+2026-09-28 15:05:42 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-28 15:39:38 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 5 failed attempts within 60 seconds
+2026-09-28 15:40:10 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-28 15:53:35 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-28 15:53:58 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 5 unique ports within 60 seconds
+2026-09-28 16:59:52 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 5 unique ports within 60 seconds
+2026-09-28 17:08:57 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-09-28 17:35:03 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-09-28 17:38:48 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 12:37:49 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-09-29 12:41:09 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-09-29 12:42:42 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:44 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:46 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:48 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:50 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:52 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:54 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:56 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:42:58 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:43:00 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:43:02 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:45:16 | CRITICAL | File Integrity Monitor | Monitored file missing: monitored_files/important.txt
+2026-09-29 12:45:36 | INFO | File Integrity Monitor | Monitored file restored: monitored_files/important.txt
+2026-09-29 12:46:28 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:04:40 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:07:09 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:07:13 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:07:17 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:08:56 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-09-29 14:09:15 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-09-29 14:09:15 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-09-29 14:09:30 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-09-29 14:12:56 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-10-09 12:34:22 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-10-09 12:34:22 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 4 unique ports within 60 seconds
+2026-10-09 12:34:22 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 5 unique ports within 60 seconds
+2026-10-09 12:37:28 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-10-09 12:39:12 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-10-09 12:43:16 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-10-09 12:46:49 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-10-09 12:49:21 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-10-09 20:07:59 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt
+2026-10-09 20:08:28 | HIGH | Brute Force Detector | Possible brute-force attack from 192.168.1.25: 3 failed attempts within 60 seconds
+2026-10-09 20:08:36 | HIGH | Network Detector | Possible port scan from 192.168.1.50: 3 unique ports within 60 seconds
+2026-10-09 20:08:50 | CRITICAL | File Integrity Monitor | File modification detected: monitored_files/important.txt

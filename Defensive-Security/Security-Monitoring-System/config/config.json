@@ -1,0 +1,15 @@
+{
+    "brute_force": {
+        "threshold": 3,
+        "time_window": 60
+    },
+
+    "file_integrity": {
+        "check_interval": 2
+    },
+
+    "network": {
+        "port_threshold": 3,
+        "time_window": 60
+    }
+}
