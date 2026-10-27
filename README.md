@@ -56,4 +56,6 @@ I'm focused on developing practical skills that transfer to IT support and infra
 Connect
 - GitHub: PaulCola
 - LinkedIn: Paul Colangelo
+
+
 Security testing and lab activities documented in this repository are intended for authorized environments only. Projects are works in progress and may evolve as I learn and add features.
