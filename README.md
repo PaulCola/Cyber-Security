@@ -37,7 +37,10 @@ Security tools	Nmap, Gobuster, Wireshark, and hands-on lab tooling
 Monitoring & documentation	Log analysis, file integrity monitoring, alerting, technical write-ups
 
 
-Repository Structure
+
+## Repository Structure
+
+```text
 Cyber-Security/
 ├── Defensive-Security/
 │   └── Security-Monitoring-System/
@@ -46,6 +49,8 @@ Cyber-Security/
 ├── TryHackMe/
 │   └── Penetration Testing/
 └── README.md
+```
+
 What I'm Working Toward
 I'm focused on developing practical skills that transfer to IT support and infrastructure roles, including diagnosing technical problems, understanding network services, working with operating systems, and documenting solutions. I also continue to explore cybersecurity through independent projects and authorized practice labs.
 Connect
