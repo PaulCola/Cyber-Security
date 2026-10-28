@@ -1,0 +1,9 @@
+# Generated diagnostic reports
+reports/
+
+# Temporary files
+*.tmp
+*.log
+
+# VS Code settings
+.vscode/
