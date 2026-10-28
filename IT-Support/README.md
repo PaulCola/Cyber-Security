@@ -91,7 +91,7 @@ Documented cybersecurity exercises completed in authorized training environments
 | Windows Administration | PowerShell, Windows services, CIM, system monitoring |
 | Networking | TCP/IP, DNS, IPv4, gateways, ports, network diagnostics |
 | Operating Systems | Windows, Linux fundamentals |
-| Programming | Python, PowerShell, JavaScript, TypeScript |
+| Programming | Python, Java, PowerShell, JavaScript, TypeScript |
 | Web Development | React, FastAPI, REST APIs |
 | Databases | SQLite |
 | Security Tools | Nmap, Gobuster, Wireshark |
